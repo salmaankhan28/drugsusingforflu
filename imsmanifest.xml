@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5fYAWmxMKEv_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Drugs Used for Flu_v5</langstring>
+        </title>
+        <description>
+          <langstring xml:lang="x-none">In this module we are going to learn about the features and benefits of the drugs which is used for flu.</langstring>
+        </description>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Drugs_Used_for_Flu_v5_ORG">
+    <organization identifier="Drugs_Used_for_Flu_v5_ORG">
+      <title>Drugs Used for Flu_v5</title>
+      <item identifier="Drugs_Used_for_Flu_SCO" isvisible="true" identifierref="__5fYAWmxMKEv_course_id_RES">
+        <title>Drugs Used for Flu_v5</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5fYAWmxMKEv_course_id_RES" type="webcontent" href="launcher.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/6On0KOeAE6u_44100_48_0.mp3" />
+      <file href="mobile/6lMkTbbWKNU.png" />
+      <file href="mobile/6MSvr5lSnN8.png" />
+      <file href="mobile/5mMnjGzwHIu.png" />
+      <file href="mobile/6gr3oArquHR.png" />
+      <file href="mobile/6W1bQSrUIZk.png" />
+      <file href="mobile/6Ba5JxUaYfY.png" />
+      <file href="mobile/6FyQWnYZXSZ.png" />
+      <file href="mobile/6DJJaQiTW2V.png" />
+      <file href="mobile/6ow881gKws5.png" />
+      <file href="story_content/6gFLnkotwAq_44100_48_0.mp3" />
+      <file href="mobile/5cd8YipQjvf.png" />
+      <file href="mobile/5VUXgkJlKQR.png" />
+      <file href="mobile/5VqcRAwqpa0.png" />
+      <file href="mobile/6M7MK3j9zm3.png" />
+      <file href="mobile/5fB7JUcbiGb.png" />
+      <file href="mobile/6KLOlyjgDbB.png" />
+      <file href="mobile/6PTLxWVEutc.png" />
+      <file href="story_content/6cEdHSCjoRg_44100_48_0.mp3" />
+      <file href="mobile/6nczY7Yu13Y.png" />
+      <file href="mobile/6nJ1tKozyof.png" />
+      <file href="mobile/6fsnDvBAPPt.png" />
+      <file href="mobile/6RQIGmCFRBC.png" />
+      <file href="mobile/5ey0uQN00C2.png" />
+      <file href="mobile/6UDgcX8NVv1.png" />
+      <file href="story_content/5l6t0Jfhlh6_44100_48_0.mp3" />
+      <file href="mobile/61AiNImHhwt.png" />
+      <file href="mobile/6MwrMNip58i.png" />
+      <file href="story_content/5X26UoEOMju_44100_48_0.mp3" />
+      <file href="mobile/6GwnbYnTGRH.png" />
+      <file href="story_content/5mgjr6OKXZM_44100_48_0.mp3" />
+      <file href="story_content/65Oqse83IL6_44100_48_0.mp3" />
+      <file href="story_content/6VlOHgQFBS3_44100_48_0.mp3" />
+      <file href="mobile/6aapgWPgSNt.png" />
+      <file href="mobile/6WBXBqihvdX.png" />
+      <file href="mobile/6mcZtzxzQ4X.png" />
+      <file href="mobile/6pbNgBi8tOm.png" />
+      <file href="story_content/6oIjcXoJK29_44100_48_0.mp3" />
+      <file href="mobile/5uMJe5w4Pic.png" />
+      <file href="mobile/6jNPrnQnaTD.png" />
+      <file href="mobile/5bWSZEQwJ9r.png" />
+      <file href="mobile/6DOfSZ4Qzwp.png" />
+      <file href="mobile/6HuDRpO8wC8.png" />
+      <file href="mobile/6pP3v5oQvBf.png" />
+      <file href="mobile/6U6aIjJFmca.png" />
+      <file href="mobile/5sdwAP7nN97.png" />
+      <file href="mobile/6XPV5CPCnAW.png" />
+      <file href="mobile/6DaBPHFpiUK.png" />
+      <file href="story_content/5fMbzOggSOR_44100_48_0.mp3" />
+      <file href="mobile/6jAc0qSq0Sl.png" />
+      <file href="mobile/5f7Qb1Ao8oX.png" />
+      <file href="meta.xml" />
+      <file href="mobile/5m2RdKst4uF.png" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape6NUwWTbifRn.png" />
+      <file href="mobile/Shape6JJYXiraWIi.png" />
+      <file href="mobile/Shape60OBBC2W13D.png" />
+      <file href="mobile/Shape6ZNIiQhC4CR.png" />
+      <file href="mobile/Shape6AeJuid6UAK.png" />
+      <file href="mobile/Shape5xfmAnisfKM.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5etDqOLq5Xh.js" />
+      <file href="html5/data/js/5mSgMtTOZcP.js" />
+      <file href="html5/data/js/5tuwdPg5Wet.js" />
+      <file href="html5/data/js/5z9RimVFxVm.js" />
+      <file href="html5/data/js/6aj1SIOyszu.js" />
+      <file href="html5/data/js/6j9FUX03mYg.js" />
+      <file href="html5/data/js/6m31btEGj8L.js" />
+      <file href="html5/data/js/6Za0eqW7zrz.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="launcher.html" />
+      <file href="story_content/external_window.png" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
